@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeOne.iml" filepath="$PROJECT_DIR$/.idea/PracticeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PracticeOne.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PracticeOne.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickbuttons/PracticeOne.clickbuttons.iml" filepath="$PROJECT_DIR$/.idea/modules/clickbuttons/PracticeOne.clickbuttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/PracticeOne.layouttype.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/PracticeOne.layouttype.iml" />
+    </modules>
+  </component>
+</project>
